@@ -1,6 +1,6 @@
 # sample
 
-A new Flutter project.
+Just a barebone struture.
 
 ## Getting Started
 
